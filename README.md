@@ -1,5 +1,5 @@
 # Prediction Using Social Features Influence in C2C E-Commerce
-This repository contains the code and materials for the thesis titled "Prediction Using Social Features Influence in C2C E-Commerce" by Angelos Zois. The thesis was submitted in partial fulfillment of the requirements for the degree of Master of Science in Data Science & Society at Tilburg University.
+This repository contains the code and materials for the thesis titled "Prediction Using Social Features Influence in C2C E-Commerce" by Angelos Zois. The thesis was submitted in partial fulfilment of the requirements for the degree of Master of Science in Data Science & Society at Tilburg University. The full thesis can be found in this repository.
 
 ## Abstract
 This thesis explores the impact of social features on predicting the number of products sold in a Consumer-to-Consumer (C2C) environment using machine learning techniques. It utilizes a dataset from a French C2C fashion e-commerce platform and applies Random Forest Regressor and XGBoost models. The study demonstrates that incorporating social features significantly enhances predictive performance.
